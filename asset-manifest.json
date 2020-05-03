@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myinspire/static/css/main.00cc73cb.chunk.css",
+    "main.js": "/myinspire/static/js/main.b690f9db.chunk.js",
+    "main.js.map": "/myinspire/static/js/main.b690f9db.chunk.js.map",
+    "runtime-main.js": "/myinspire/static/js/runtime-main.04f177c0.js",
+    "runtime-main.js.map": "/myinspire/static/js/runtime-main.04f177c0.js.map",
+    "static/css/2.8fe626b3.chunk.css": "/myinspire/static/css/2.8fe626b3.chunk.css",
+    "static/js/2.776d1a41.chunk.js": "/myinspire/static/js/2.776d1a41.chunk.js",
+    "static/js/2.776d1a41.chunk.js.map": "/myinspire/static/js/2.776d1a41.chunk.js.map",
+    "index.html": "/myinspire/index.html",
+    "precache-manifest.330d6607e23d5bd2d6f0791698e9badb.js": "/myinspire/precache-manifest.330d6607e23d5bd2d6f0791698e9badb.js",
+    "service-worker.js": "/myinspire/service-worker.js",
+    "static/css/2.8fe626b3.chunk.css.map": "/myinspire/static/css/2.8fe626b3.chunk.css.map",
+    "static/css/main.00cc73cb.chunk.css.map": "/myinspire/static/css/main.00cc73cb.chunk.css.map",
+    "static/js/2.776d1a41.chunk.js.LICENSE.txt": "/myinspire/static/js/2.776d1a41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f177c0.js",
+    "static/css/2.8fe626b3.chunk.css",
+    "static/js/2.776d1a41.chunk.js",
+    "static/css/main.00cc73cb.chunk.css",
+    "static/js/main.b690f9db.chunk.js"
+  ]
+}
