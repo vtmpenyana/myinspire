@@ -1,0 +1,14 @@
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	padding: 40px;
+}
+
+.menu-items {
+	display: flex;
+	list-style: none;
+}
+
+.menu-items p {
+	margin: 10px;
+}
