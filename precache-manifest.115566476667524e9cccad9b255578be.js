@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ed5f52dd1066e1a0f580e09b005fe36",
+    "revision": "9591c719efb76d611dc63e16c0a508e0",
     "url": "/myinspire/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myinspire/static/css/2.8fe626b3.chunk.css"
   },
   {
-    "revision": "52f75f955ce62c670ebc",
-    "url": "/myinspire/static/css/main.00cc73cb.chunk.css"
+    "revision": "eb72adede3eb3871ff0f",
+    "url": "/myinspire/static/css/main.4f99f606.chunk.css"
   },
   {
     "revision": "9c347466107ba443fdaf",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myinspire/static/js/2.776d1a41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52f75f955ce62c670ebc",
-    "url": "/myinspire/static/js/main.b690f9db.chunk.js"
+    "revision": "eb72adede3eb3871ff0f",
+    "url": "/myinspire/static/js/main.49dc6d6d.chunk.js"
   },
   {
     "revision": "e6fa509f58e1bc961b92",
